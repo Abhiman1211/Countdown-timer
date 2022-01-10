@@ -1,6 +1,6 @@
 # Countdown-Timer
 This is a python code that imports time module to construct a countdown timer.
-Contributors:
+<br>
 TEAM MEMBERS
 <br>
 1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
